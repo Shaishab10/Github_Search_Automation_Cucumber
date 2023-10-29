@@ -1,6 +1,6 @@
 # <div align=center> Github Search Automation with Cucumber </div>
 
-### <div align=center> In this repository, Selenium WebDriver and Cucumber framework are used to automate the Github Repository Search & Navigation.
+### <div align=center> In this repository, Selenium WebDriver and Cucumber framework are used to automate the Github Repository Search & Navigate About Page.
 
 ### Tools & Technology used:
 - Selenium Webdriver
