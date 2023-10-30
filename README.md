@@ -23,3 +23,8 @@
 ### Report
 ![screencapture-localhost-63342-github-search-automation-cucumber-target-reports-cucumber-reports-html-2023-10-29-13_21_13](https://github.com/Shaishab10/Github_Search_Automation_Cucumber/assets/54171379/77498f47-99ac-4cb0-b5c8-d7c1a6affe84)
 
+### Output video
+
+https://github.com/Shaishab10/Github_Search_Automation_Cucumber/assets/54171379/5cb44ec9-3216-4bc7-b77f-714adae18683
+
+
